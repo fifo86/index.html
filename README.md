@@ -1,4 +1,3 @@
-# index.html
 <!DOCTYPE html>
 
 <!– Importei as bibliotecas para utilizar a Realidade Aumentada –>
